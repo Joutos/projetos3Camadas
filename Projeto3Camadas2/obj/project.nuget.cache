@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "PHxDCVz7EIzIFCRplNWE6b0LG2SpVWUA+Xc8Ryp/h5jq7b1zkNwvfq5UF3zVr5OMWJ34D/AKwmmf/WYIW4fzWg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\jpd00\\source\\repos\\Projeto3Camadas2\\Projeto3Camadas2.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\jpd00\\.nuget\\packages\\mysqlconnector\\2.0.0\\mysqlconnector.2.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}
